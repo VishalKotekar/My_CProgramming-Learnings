@@ -1,6 +1,6 @@
 # My C Programming Learnings - 2022
 
-This repository contains the C programming exercises and solutions I worked on throughout 2022. All the code is stored in the **main branch**.
+This repository contains the C programming exercises and solutions I worked on throughout 2022. All the code is stored in the **master branch**.
 
 ## Contents
 
